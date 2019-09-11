@@ -1,12 +1,28 @@
-
 figure {
     border: 1px solid #ccc;
-    
     padding: 5px;
 }
+
+
 figcaption {
     background-color: #222;
     color: #fff;
     text-align: center;
-    font-size:0.5em;
+    font-size: 0.5em;
+}
+
+
+.motto {
+    color: #888;
+    font-size: 1.5em;
+}
+
+
+h1 {
+    color: #888;
+}
+
+
+p {
+    color: #555;
 }
